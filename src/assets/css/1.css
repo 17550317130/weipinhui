@@ -1,0 +1,17 @@
+.v-image{
+    height:400px !important;
+}
+.v-window{
+    height:400px !important;
+}
+.v-carousel__controls{
+    display: none !important;
+}
+.v-window__next{
+    background: rgba(0,0,0,.3) !important;
+    border-radius: 50% !important;
+    position: absolute !important;
+    margin: 0 1090px !important;
+    top: calc(50% - 20px) !important;
+    z-index: 1 !important;
+}
